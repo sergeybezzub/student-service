@@ -1,4 +1,6 @@
-## How to test localy
+## Simple sample of NodeJS Microservice (REST API and persisting to MySQL)
+
+# How to test localy
 
 - ✅ You should have **NodeJS** and **Docker** engine installed 
 - ✅ Load and start MySQL docker container
